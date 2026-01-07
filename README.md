@@ -1,7 +1,7 @@
 
-  # Swiggy Smart-Slot Delivery Website
+  # Swiggy Smart-Slot Delivery Website.
 
-  ## Running the code
+  ## Running the code.
 
   Run `npm i` to install the dependencies.
 
